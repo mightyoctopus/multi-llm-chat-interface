@@ -2,6 +2,7 @@ playground.py
 main.py
 .idea/
 .DS_Store
+.gradio/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
